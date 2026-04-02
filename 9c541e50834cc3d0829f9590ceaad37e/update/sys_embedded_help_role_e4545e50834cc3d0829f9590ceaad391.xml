@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_pet_adoption.user" name="x_snc_pet_adoption.user">20545e50834cc3d0829f9590ceaad38f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin.wpt27</sys_created_by>
+        <sys_created_on>2026-03-31 18:38:48</sys_created_on>
+        <sys_id>e4545e50834cc3d0829f9590ceaad391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>20545e50834cc3d0829f9590ceaad38f</sys_name>
+        <sys_package display_value="Pet adoption" source="x_snc_pet_adoption">9c541e50834cc3d0829f9590ceaad37e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pet adoption">9c541e50834cc3d0829f9590ceaad37e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e4545e50834cc3d0829f9590ceaad391</sys_update_name>
+        <sys_updated_by>admin.wpt27</sys_updated_by>
+        <sys_updated_on>2026-03-31 18:38:48</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
